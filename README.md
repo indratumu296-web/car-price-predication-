@@ -90,15 +90,6 @@ Enter the required car details and click **Predict** to view the estimated selli
 
 ---
 
-## 👨‍💻 Author
-
-**Tumu Indra Reddy**
-
-B.Tech Artificial Intelligence & Machine Learning
-
-Sai University, Chennai
-
----
 
 ## 📄 License
 
