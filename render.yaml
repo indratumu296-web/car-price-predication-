@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: car-price-predication
+    runtime: python
+    rootDir: Flame/Samples - code/car_price
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app:app --host 0.0.0.0 --port $PORT
